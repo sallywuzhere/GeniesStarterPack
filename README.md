@@ -3,7 +3,7 @@
 ### Summary
 
 - Genies Starter Pack is a Unity project containing five rigged avatars, each with a humanoid skeleton, 52 facial blendshapes for real-time animation, and a sample integration with [Unity’s ThirdPerson CharacterController Starter Assets](https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526).
-- These avatars are representative of what Genies users can create using the upcoming Genies Developer Platform, sans certain proprietary components such as hair dynamics and custom shaders.
+- Note: These avatars are representative of what Genies users can create using the upcoming Genies Developer Platform, sans certain proprietary components such as hair dynamics and custom shaders.
 
 ### Getting Started
 
